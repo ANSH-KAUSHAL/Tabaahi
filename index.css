@@ -20,6 +20,18 @@ body{
     margin-right: 8rem;
     font-size: 1.3rem; 
 }
+.nav0 ul{
+   height: 2rem;
+}
+.nav0 ul li{
+    /* display: flex; */
+    float: left;
+    padding: 1rem 5rem;
+    list-style-type: none;
+    text-transform: capitalize;
+    background-color: rgb(43, 118, 216);
+
+}
 
 
 
